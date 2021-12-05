@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+line-bot-sdk==1.16.0
+dialogflow==1.0.0
+lxml==4.6.1
+beautifulsoup4==4.9.3

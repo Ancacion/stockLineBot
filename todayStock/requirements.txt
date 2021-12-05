@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+lxml==4.6.1
+beautifulsoup4==4.9.3
+Flask==1.1.1
+requests
+firebase_admin
